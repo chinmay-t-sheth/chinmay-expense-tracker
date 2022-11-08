@@ -31,6 +31,11 @@ To Change name of app- at main.jsx
 
 To change transaction created- in snackbar
 
+React's context allows you to share information to any component, by storing it in a central place and allowing access to any component that requests it 
+
+index.css for bakground change
+
+push to talk in app.js
 
 
 
