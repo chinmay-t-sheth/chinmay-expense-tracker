@@ -2,7 +2,7 @@
 to run - npm i and npm start
 https://chinmay-expense-app.netlify.app/
 
-deploy- app.netlify.com Harsh651400@
+deploy- app.netlify.com 
 
                                         
                                      Chinmay sheth- Expense Tracker Queries
